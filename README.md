@@ -19,9 +19,8 @@ Version 1.0
 | **Authentication** | Clerk.js |  Selected |
 | **Video Infrastructure** | Stream API |  Evaluating |
 | **Backend/API** | Next.js API Routes + Python FastAPI |  Planning |
-| **Database** | PostgreSQL / Firebase Firestore |  Evaluating |
-| **AI Engine** | OpenAI GPT API + Python scripts |  Researching |
-| **Deployment** | Vercel + AWS/Docker |  Planning |
+| **Database** | PostgreSQL / Supabase |  Evaluating |
+| **AI Engine** | Google Gemini API  |  Researching |
 
 ---
 
